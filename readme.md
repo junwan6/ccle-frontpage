@@ -8,10 +8,12 @@ $ bower install
 $ npm start
 ```
 
-If you need to install node see:
+Resources:
 
 * https://nodejs.org/en/download/
 * https://bower.io/#install-bower
 * http://foundation.zurb.com/sites/docs/installation.html
+* http://gulpjs.com
+* https://babeljs.io
 
-Look into the [Foundation docs](http://foundation.zurb.com/sites/docs/) for how to complete assignment.
+Look into the [Foundation docs](http://foundation.zurb.com/sites/docs/) for how to create styled markup.
