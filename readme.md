@@ -16,4 +16,4 @@ Resources:
 * http://gulpjs.com
 * https://babeljs.io
 
-Look into the [Foundation docs](http://foundation.zurb.com/sites/docs/) for how to create styled markup.
+Look into the [Foundation docs](http://foundation.zurb.com/sites/docs/) for how to create styled markup.  To edit the templates, see [Panini](http://foundation.zurb.com/sites/docs/panini.html)
