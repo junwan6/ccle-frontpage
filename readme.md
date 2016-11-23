@@ -37,9 +37,13 @@ $ npm start
 
 If all that works, you should be able to edit anything under the `src` directory and it will automatically refresh the browser for you.
 
-If something went wrong, you most likely need to install Node, see:
+If something went wrong, you most likely need to install Node or something else, see:
 
 * https://nodejs.org/en/download/
 * https://bower.io/#install-bower
 * http://sass-lang.com/
 * http://foundation.zurb.com/sites/docs/installation.html
+* http://gulpjs.com
+* https://babeljs.io
+
+The template engine uses [Panini](http://foundation.zurb.com/sites/docs/panini.html).
