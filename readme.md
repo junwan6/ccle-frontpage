@@ -31,13 +31,15 @@ This project has been set up for you to get started quickly.  To install and run
 
 ```bash
 $ npm install
+## If you don't have bower already installed, install bower:
+$ npm install -g bower
 $ bower install
 $ npm start
 ```
 
 If all that works, you should be able to edit anything under the `src` directory and it will automatically refresh the browser for you.
 
-If something went wrong, you most likely need to install Node or something else, see:
+If something went wrong, you most likely need to install Node (npm is installed as part of node) or something else, some references:
 
 * https://nodejs.org/en/download/
 * https://bower.io/#install-bower
